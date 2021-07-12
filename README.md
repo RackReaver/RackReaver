@@ -1,18 +1,18 @@
 [![Repos Badge](https://badges.pufler.dev/repos/RackReaver)](https://badges.pufler.dev)
 [![Gists Badge](https://badges.pufler.dev/gists/RackReaver)](https://badges.pufler.dev)
-[![Twitter Badge](https://img.shields.io/badge/Social-Twitter-informational?style=flat&logo=twitter&logoColor=white)](https://twitter.com/RackReaver)
-[![LinkedIn Badge](https://img.shields.io/badge/Social-LinkedIn-informational?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matthew-ferreira/)
+[![Twitter Badge](https://img.shields.io/badge/Social-Twitter-informational?style=flat&logo=twitter)](https://twitter.com/RackReaver)
+[![LinkedIn Badge](https://img.shields.io/badge/Social-LinkedIn-informational?style=flat&logo=linkedin)](https://www.linkedin.com/in/matthew-ferreira/)
 
-![](https://img.shields.io/badge/Code-Python-1A2B34?style=flat-square&logo=python&logoColor=white)
-![](https://img.shields.io/badge/Code-HTML-1A2B34?style=flat-square&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/Code-CSS-1A2B34?style=flat-square&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/Code-MySQL-1A2B34?style=flat-square&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/Code-Sqlite-1A2B34?style=flat-square&logo=sqlite&logoColor=white)
+![](https://img.shields.io/badge/Python-1A2B34?style=for-the-badge&logo=python&labelColor=303036)
+![](https://img.shields.io/badge/HTML-1A2B34?style=for-the-badge&logo=html5&labelColor=303036)
+![](https://img.shields.io/badge/CSS-1A2B34?style=for-the-badge&logo=css3&labelColor=303036)
+![](https://img.shields.io/badge/MySQL-1A2B34?style=for-the-badge&logo=mysql&labelColor=303036&logoColor=FFF)
+![](https://img.shields.io/badge/Sqlite-1A2B34?style=for-the-badge&logo=sqlite&labelColor=303036)
 
-![](https://img.shields.io/badge/Tools-GitHub-1A2B34?style=flat-square&logo=github&logoColor=white)
-![](https://img.shields.io/badge/Tools-GitLab-1A2B34?style=flat-square&logo=gitlab&logoColor=white)
-![](https://img.shields.io/badge/Tools-Jira-1A2B34?style=flat-square&logo=jira-software&logoColor=white)
-![](https://img.shields.io/badge/Tools-Postman-1A2B34?style=flat-square&logo=postman&logoColor=white)
+![](https://img.shields.io/badge/GitHub-1A2B34?style=for-the-badge&logo=github&labelColor=303036)
+![](https://img.shields.io/badge/GitLab-1A2B34?style=for-the-badge&logo=gitlab&labelColor=303036)
+![](https://img.shields.io/badge/Jira-1A2B34?style=for-the-badge&logo=jira-software&labelColor=303036)
+![](https://img.shields.io/badge/Postman-1A2B34?style=for-the-badge&logo=postman&labelColor=303036)
 
 <a href="https://github.com/RackReaver">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=RackReaver&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=FC5130&bg_color=1A2B34" alt="Matt Ferreira's GitHub Stats" />
