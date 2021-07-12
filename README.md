@@ -19,7 +19,7 @@
 </a>
 </br>
 </br>
-<a href="https://github.com/braydoncoyer/tailwindcss-v2-dark-mode-template">
+<a href="https://github.com/RackReaver/AVMP">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RackReaver&repo=AVMP&title_color=ffffff&text_color=c9cacc&icon_color=FC5130&bg_color=1A2B34" />
 </a>
 </br>
