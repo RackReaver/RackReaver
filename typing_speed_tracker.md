@@ -1,9 +1,5 @@
 # Tracking my Typing Practice and Speed
 
-# Day 1 (July 13, 2021)
-
-|                  |       |
-| :--------------- | :---- |
-| Time Practicing: | 1.5hr |
-| Typing Speed     | 57wpm |
-
+| Date       | Time Practicing | Avg. Typing Speed |
+| :--------- | :-------------: | :---------------: |
+| 2021-07-13 |     2 hours     |       57wpm       |
