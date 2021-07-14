@@ -3,4 +3,4 @@
 | Date       | Time Practicing | Avg. Typing Speed |
 | :--------- | :-------------: | :---------------: |
 | 2021-07-13 |     2 hours     |       57wpm       |
-| 2021-07-14 |     1 hour      |       61wpm       |
+| 2021-07-14 |     1 hour      |       64wpm       |
