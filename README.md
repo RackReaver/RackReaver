@@ -1,6 +1,6 @@
 [![Repos Badge](https://badges.pufler.dev/repos/RackReaver)](https://badges.pufler.dev)
 [![Gists Badge](https://badges.pufler.dev/gists/RackReaver)](https://badges.pufler.dev)
-[![WPM](https://img.shields.io/badge/Fastest%20Typing%20Speed-77wpm-important)](typing_speed_tracker.md)
+[![WPM](https://img.shields.io/badge/Fastest%20Typing%20Speed-79wpm-important)](typing_speed_tracker.md)
 [![Twitter Badge](https://img.shields.io/badge/Social-Twitter-informational?style=flat&logo=twitter)](https://twitter.com/RackReaver)
 [![LinkedIn Badge](https://img.shields.io/badge/Social-LinkedIn-informational?style=flat&logo=linkedin)](https://www.linkedin.com/in/matthew-ferreira/)
 
