@@ -2,6 +2,7 @@
 
 | Date       | Time Practicing | Avg. Typing Speed |
 | :--------- | :-------------: | :---------------: |
+| 2021-09-08 |     0 mins      |       84wpm       |
 | 2021-09-03 |    10 mins      |       82wpm       |
 | 2021-09-01 |    10 mins      |       78wpm       |
 | 2021-08-25 |     5 mins      |       78wpm       |
