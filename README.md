@@ -28,7 +28,7 @@
 
 ## Hi there 👋
 
-I'm a Senior Information Security Engineer, I look to build automated systems that improve the security of an organization while reducing or eliminating the man hours to maintain it.
+I'm a Senior Security Automation Engineer, I look to build automated systems that improve the security of an organization while reducing or eliminating the man hours to maintain it.
 
 - 🔭 I’m currently working on [AVMP](github.com/RackReaver/AVMP) (Automated Vulnerability Management Program)
 - 🌱 I’m currently learning about open source and how to run projects
