@@ -44,10 +44,10 @@ I'm a Senior Security Automation Engineer, I look to build automated systems tha
 
 Each install command provides the download link which must be pointed to a file and path.
 
-|        |                                                                                         |
-| ------ | --------------------------------------------------------------------------------------- |
-| .zshrc | `curl https://raw.githubusercontent.com/RackReaver/dotfiles/main/zsh/.zshrc > ~/.zshrc` |
-| .vimrc | `curl https://raw.githubusercontent.com/RackReaver/dotfiles/main/vim/.vimrc > ~/.vimrc` |
+|                                                                       |                                                                                         |
+| --------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+| [.zshrc](https://github.com/RackReaver/dotfiles/blob/main/zsh/.zshrc) | `curl https://raw.githubusercontent.com/RackReaver/dotfiles/main/zsh/.zshrc > ~/.zshrc` |
+| [.vimrc](https://github.com/RackReaver/dotfiles/blob/main/vim/.vimrc) | `curl https://raw.githubusercontent.com/RackReaver/dotfiles/main/vim/.vimrc > ~/.vimrc` |
 
 <!--
 **RackReaver/RackReaver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
