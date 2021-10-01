@@ -49,6 +49,12 @@ Each install command provides the download link which must be pointed to a file 
 | .zshrc | `curl https://raw.githubusercontent.com/RackReaver/dotfiles/main/zsh/.zshrc > ~/.zshrc` |
 | .vimrc | `curl https://raw.githubusercontent.com/RackReaver/dotfiles/main/vim/.vimrc > ~/.vimrc` |
 
+## Learning VIM Resources
+
+I am personally not the biggest fan of vimtutor, it works but it won't get you up to speed very quickly. Below are some resources that I used to increase my vim proficiency.
+
+- [VimGenius](http://www.vimgenius.com/) (Good for beginners and building muscle memory)
+
 <!--
 **RackReaver/RackReaver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
