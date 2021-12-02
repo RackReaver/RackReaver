@@ -20,6 +20,11 @@
 </a>
 </br>
 </br>
+<a href="https://github.com/RackReaver/FinPack">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RackReaver&repo=FinPack&title_color=ffffff&text_color=c9cacc&icon_color=FC5130&bg_color=1A2B34" />
+</a>
+</br>
+</br>
 <a href="https://github.com/RackReaver/AVMP">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RackReaver&repo=AVMP&title_color=ffffff&text_color=c9cacc&icon_color=FC5130&bg_color=1A2B34" />
 </a>
@@ -30,7 +35,8 @@
 
 I'm a Senior Security Automation Engineer, I look to build automated systems that improve the security of an organization while reducing or eliminating the man hours to maintain it.
 
-- 🔭 I’m currently working on [AVMP](github.com/RackReaver/AVMP) (Automated Vulnerability Management Program)
+- 🔭 I’m currently working on [FinPack](github.com/RackReaver/FinPack) (Super simple financial tracking and management tools.)
+
 - 🌱 I’m currently learning about open source and how to run projects
 - 👯 I’m looking to collaborate on any python projects
 - 🤔 I’m looking for help with setting up and managing open source projects
