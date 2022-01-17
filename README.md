@@ -35,7 +35,7 @@
 
 I'm a Senior Security Automation Engineer, I look to build automated systems that improve the security of an organization while reducing or eliminating the man hours to maintain it.
 
-- 🔭 I’m currently working on [FinPack](github.com/RackReaver/FinPack) (Super simple personal finance tracking.)
+- 🔭 I’m currently working on [FinPack](github.com/RackReaver/FinPack) and [AVMP](https://github.com/RackReaver/AVMP)
 
 - 🌱 I’m currently learning about open source and how to run projects
 - 👯 I’m looking to collaborate on any python projects
