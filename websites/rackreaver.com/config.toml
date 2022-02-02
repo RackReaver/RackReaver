@@ -1,4 +1,4 @@
-baseurl      = "rackreaver.com"
+baseurl      = "/"
 title        = "RackReaver"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
