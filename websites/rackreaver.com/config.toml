@@ -1,0 +1,38 @@
+baseurl      = "rackreaver.com"
+title        = "RackReaver"
+languageCode = "en-us"
+theme        = "hello-friend-ng"
+paginate     = 10
+
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04"
+
+  # Subtitle for home
+  homeSubtitle = "Automating repetitive security tasks and building new tools in python."
+
+  # Set disableReadOtherPosts to true in order to hide the links to other posts.
+  disableReadOtherPosts = false
+
+  # Enable sharing buttons, if you like
+  enableSharingButtons = true
+
+  # Metadata mostly used in document's head
+  description = "Automating repetitive security tasks and building new tools in python."
+
+[languages]
+  [languages.en]
+    title = "RackReaver"
+
+    [languages.en.params.logo]
+      logoText = "cd rackreaver"
+      logoHomeLink = "/"
+
+[[params.social]]
+  name = "github"
+  url = "https://github.com/rackreaver"
+[[params.social]]
+  name = "twitter"
+  url = "https://twitter.com/rackreaver"
