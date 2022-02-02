@@ -36,3 +36,12 @@ paginate     = 10
 [[params.social]]
   name = "twitter"
   url = "https://twitter.com/rackreaver"
+
+ [[menu.main]]
+    identifier = "github"
+    name       = "GitHub"
+    url        = "https://github.com/rackreaver"
+ [[menu.main]]
+    identifier = "twitter"
+    name       = "Twitter"
+    url        = "https://twitter.com/rackreaver"
