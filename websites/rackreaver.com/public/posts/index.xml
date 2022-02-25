@@ -16,7 +16,11 @@
             <guid>/posts/how-to-build-a-simple-threat-and-vulnerability-management-program/</guid>
             <description>Vulnerability management has been a key part of my career in information security. I have built two full programs at this point, one at a fortune 200 company and another at sub one thousand employee company. From the perspective of information security the process and program were nearly identical in how they were built, the differences only show in the remediation process.
 Choosing a Vulnerability Management Platform This is an important (if not the most important) part of a security organizations toolbox.</description>
-            <content type="html"><![CDATA[<p>Vulnerability management has been a key part of my career in information security. I have built two full programs at this point, one at a fortune 200 company and another at sub one thousand employee company. From the perspective of information security the process and program were nearly identical in how they were built, the differences only show in the remediation process.</p>
+            <content type="html"><![CDATA[
+    <img src="/images/posts/how-to-build-a-simple-threat-and-vulnerability-management-program.jpeg"  alt="Hello Friend"  class="center"  style="border-radius: 8px;"  />
+
+
+<p>Vulnerability management has been a key part of my career in information security. I have built two full programs at this point, one at a fortune 200 company and another at sub one thousand employee company. From the perspective of information security the process and program were nearly identical in how they were built, the differences only show in the remediation process.</p>
 <h2 id="choosing-a-vulnerability-management-platform">Choosing a Vulnerability Management Platform</h2>
 <p>This is an important (if not the most important) part of a security organizations toolbox. With the device count growing and the move to a remote workforce it is becoming increasingly important to implement a solution for monitoring individual assets. Work from home has created a big problem for infosec teams due to the vast number of unknown variables; is the home router up-to-date, are ports open on the firewall, what other devices sit on the home network, are the other devices up-to-date. This is where a good vulnerability platform comes in, my top three all have the ability to install agents on individual machines that can be scanned over the internet.</p>
 <ol>
