@@ -38,10 +38,14 @@ paginate     = 10
   url = "https://twitter.com/rackreaver"
 
  [[menu.main]]
-    identifier = "github"
-    name       = "GitHub"
-    url        = "https://github.com/rackreaver"
+    identifier = "about"
+    name       = "About"
+    url        = "about"
  [[menu.main]]
-    identifier = "twitter"
-    name       = "Twitter"
-    url        = "https://twitter.com/rackreaver"
+    identifier = "contact"
+    name       = "Contact"
+    url        = "contact"
+ [[menu.main]]
+    identifier = "blog"
+    name       = "Blog"
+    url        = "posts"
