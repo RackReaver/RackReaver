@@ -16,10 +16,10 @@ I found myself inside the admissions office of New England Institute of Technolo
 
 2020 - Designed and coded a semi-autonomous vulnerability management program.
 
-2019 - Built a vulnerability management and incident response program from the ground up.
+2019 - Built a vulnerability management and incident response program from scratch.
 
 2018 - Designed, documented and implemented a technical e-discovery program.
 
-2017 - Built automation scripts to assist in the rapid response and remediation of WannaCry.
+2017 - Used automated scripts to rapidly respond and remediate WannaCry.
 
 2016 - Built a home lab for studying and testing new open source security technology.
