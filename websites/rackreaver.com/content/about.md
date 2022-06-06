@@ -12,6 +12,8 @@ I found myself inside the admissions office of New England Institute of Technolo
 
 ### **Notable Accomplishments**
 
+2022 - Studied and passed the [CISSP](https://www.isc2.org/Certifications/CISSP) certification exam
+
 2021 - Built and implemented a scrum/agile strategy for managing security teams.
 
 2020 - Designed and coded a semi-autonomous vulnerability management program.
