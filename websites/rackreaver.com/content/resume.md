@@ -72,6 +72,7 @@ I look to build automated systems that improve the security of an organization w
 
 # Education / Certifications
 
+- May 2022 - CISSP (Certified Information Systems Security Professional)
 - Dec 2018 - No expiration date - Agile Whole Team Training
 - Sep 2017 - No expiration date - TestOut Certified Security Pro
 - 2016 - 2017 - Bachelor of Science, Cyber Security and Network Engineering - New England Institute of Tech
