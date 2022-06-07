@@ -55,11 +55,23 @@ Each install command provides the download link which must be pointed to a file 
 | [.zshrc](https://github.com/RackReaver/dotfiles/blob/main/zsh/.zshrc) | `curl https://raw.githubusercontent.com/RackReaver/dotfiles/main/zsh/.zshrc > ~/.zshrc` |
 | [.vimrc](https://github.com/RackReaver/dotfiles/blob/main/vim/.vimrc) | `curl https://raw.githubusercontent.com/RackReaver/dotfiles/main/vim/.vimrc > ~/.vimrc` |
 
-## Learning VIM Resources
+## Project Ideas
 
-I am personally not the biggest fan of vimtutor, it works but it won't get you up to speed very quickly. Below are some resources that I used to increase my vim proficiency.
+I don't have time to work on every project I think of so this is where I place them for future reference. If you want to work on it with or without me feel free to steal the idea and run with it (just let me know so I can use it!).
 
-- [VimGenius](http://www.vimgenius.com/) (Good for beginners and building muscle memory)
+### Keyword highlighter for email
+
+Personally I would like this to be a Thunderbird addon. I use Thunderbird as an email client and an RSS reader. I need to read a ton of articles to keep up on cyber security, especially around vulnerabilities and it would speed up the process to have specific keywords highlighted.
+
+Criteria:
+
+- Ability to create keyword groups to highlight using different colors
+- Ability to turn the different keyword groups on and off
+- Ability to change the color of unread emails or articles that match keywords
+
+## Resources
+
+- [VimGenius](http://www.vimgenius.com/) (Good for beginners who want to use vim)
 
 <!--
 **RackReaver/RackReaver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
