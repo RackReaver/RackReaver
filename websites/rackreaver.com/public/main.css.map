@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/Users/matt/Documents/code/RackReaver/websites/rackreaver.com",
+	"sourceRoot": "/Users/matt/Documents/code/personal/rackreaver/websites/rackreaver.com",
 	"sources": [
 		"themes/hello-friend-ng/assets/scss/main.scss",
 		"themes/hello-friend-ng/assets/scss/_normalize.scss",
