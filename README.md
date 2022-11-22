@@ -31,7 +31,7 @@
 
 ## Hi there 👋
 
-I'm a Senior Security Automation Engineer, I look to build automated systems that improve the security of an organization while reducing or eliminating the man hours to maintain it.
+I'm a Principle Security Engineer, I look to build automated systems that improve the security of an organization while reducing or eliminating the man hours to maintain it.
 
 - 🔭 I’m currently working on [FinPack](github.com/RackReaver/FinPack) and [AVMP](https://github.com/RackReaver/AVMP)
 
