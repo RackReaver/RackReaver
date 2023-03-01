@@ -6,7 +6,7 @@
     <description>Recent content on RackReaver</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Apr 2021 10:19:35 -0500</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 25 Jan 2022 12:41:42 -0500</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Resume</title>
       <link>/resume/</link>
@@ -37,6 +37,16 @@ Twitter https://twitter.com/RackReaver</description>
       
       <guid>/about/</guid>
       <description>It all started when… I found myself inside the admissions office of New England Institute of Technology. My parents and the admissions officer both looked at me as I read through the program offerings. Reading one after the other something jumped out at me, I had never heard the term, “Cyber Security &amp;amp; Network Engineering”. The admissions officer noticed my curiosity and pulled out a class breakdown sheet, as I read each line my excitement grew, I knew this was my future.</description>
+    </item>
+    
+    <item>
+      <title>Git for Document Management</title>
+      <link>/posts/git-for-document-management/</link>
+      <pubDate>Tue, 25 Jan 2022 12:41:42 -0500</pubDate>
+      
+      <guid>/posts/git-for-document-management/</guid>
+      <description>The idea for this came to me while exploring and contributing to open source communities. It was (and still is) quite impressive how well these communities self govern using the Git version control system. Developers use the Git system to maintain a record of any changes to programming files and to me I couldn&amp;rsquo;t see why we couldn&amp;rsquo;t use the same system for documents.
+The Markdown language One downside to using Git for document management is the need to use plain text files and the Markdown language.</description>
     </item>
     
     <item>

@@ -5,8 +5,76 @@
         <description>Recent content in Posts on RackReaver</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Mon, 05 Apr 2021 10:19:35 -0500</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jan 2022 12:41:42 -0500</lastBuildDate>
         <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Git for Document Management</title>
+            <link>/posts/git-for-document-management/</link>
+            <pubDate>Tue, 25 Jan 2022 12:41:42 -0500</pubDate>
+            
+            <guid>/posts/git-for-document-management/</guid>
+            <description>The idea for this came to me while exploring and contributing to open source communities. It was (and still is) quite impressive how well these communities self govern using the Git version control system. Developers use the Git system to maintain a record of any changes to programming files and to me I couldn&amp;rsquo;t see why we couldn&amp;rsquo;t use the same system for documents.
+The Markdown language One downside to using Git for document management is the need to use plain text files and the Markdown language.</description>
+            <content type="html"><![CDATA[
+    <img src="/images/posts/git-for-document-management.png"  alt="graphic-of-person-on-computer"  class="center"  style="border-radius: 8px;"  />
+
+
+<p>The idea for this came to me while exploring and contributing to open source communities. It was (and still is) quite impressive how well these communities self govern using the Git version control system. Developers use the Git system to maintain a record of any changes to programming files and to me I couldn&rsquo;t see why we couldn&rsquo;t use the same system for documents.</p>
+<h2 id="the-markdown-language">The Markdown language</h2>
+<p>One downside to using Git for document management is the need to use plain text files and the Markdown language. Using software like Microsoft Office Suite or anything similar is not really possible due to the way Git tracks changes. Markdown is a very simplistic language and only provides basic support for formatting the document. To me this is actually quite powerful when it comes to document management because it requires an individual to simplify the document in a way that works with Markdown. Personally I am not a fan of long text heavy documents, no one reads them if they are long so why have them (exception being legal documents)?</p>
+<h2 id="creating-commits">Creating commits</h2>
+<p>This is actually difficult because all of the standards (i.e. conventional commits) revolves around software development and not document management. Because of this I decided to create my own that track important changes for document management and are as follows:</p>
+<table>
+<thead>
+<tr>
+<th>type</th>
+<th>description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>new</td>
+<td>When a document is being added to the repo for tracking</td>
+</tr>
+<tr>
+<td>add</td>
+<td>When new text is added to an existing document</td>
+</tr>
+<tr>
+<td>update</td>
+<td>When text is changed in an existing document</td>
+</tr>
+<tr>
+<td>style</td>
+<td>No text is changed only formatting</td>
+</tr>
+<tr>
+<td>chore</td>
+<td>Changes not affecting documents</td>
+</tr>
+</tbody>
+</table>
+<h3 id="example-commits">Example commits</h3>
+<ul>
+<li>new: Create incident response process document</li>
+<li>add: Add point of contact table to incident response process</li>
+<li>update: Change document owner to john doe</li>
+<li>style: Change location of table of contents</li>
+<li>chore: Move incident response plan to incident response folder</li>
+</ul>
+<h2 id="creating-and-managing-branches">Creating and managing branches</h2>
+<p>Branches follow the same methodology that is used in software development. If a document needs to be added or altered a branch is created and all changes are made before making a pull request to update the main production documents. Anything living on the main or master branch are considered published documents and any other branches are considered pending changes.</p>
+<h3 id="example-branches">Example branches</h3>
+<ul>
+<li>new/incident-response-process</li>
+<li>add/add-point-of-contacts-to-incident-response-process</li>
+<li>update/change-incident-response-process-document-owner</li>
+<li>style/change-incident-response-process-table-of-contents-location</li>
+<li>chore/move-incident-response-plan-to-incident-response-folder</li>
+</ul>
+]]></content>
+        </item>
         
         <item>
             <title>How to Build a Simple Threat and Vulnerability Management Program</title>
