@@ -8,18 +8,6 @@
     <language>en-us</language>
     <lastBuildDate>Tue, 25 Jan 2022 12:41:42 -0500</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Resume</title>
-      <link>/resume/</link>
-      <pubDate>Tue, 01 Mar 2022 10:54:37 -0500</pubDate>
-      
-      <guid>/resume/</guid>
-      <description>CLICK HERE FOR PDF RESUME
-Objective BUILD INFORMATION SECURITY PROGRAMS FROM THE GROUND UP LEVERAGING AUTOMATION TO KEEP HEADCOUNT AND OVERALL COSTS DOWN
-I look to build automated systems that improve the security of an organization while reducing or eliminating the man hours to maintain it.
-Core Skills Build, manage and lead vulnerability management programs at all stages including from the ground up in accordance to PCI DSS standards. Strong ability to write clean, concise, formatted technical documentation.</description>
-    </item>
-    
-    <item>
       <title>Contact</title>
       <link>/contact/</link>
       <pubDate>Fri, 25 Feb 2022 11:17:37 -0500</pubDate>
@@ -47,6 +35,15 @@ Twitter https://twitter.com/RackReaver</description>
       <guid>/posts/git-for-document-management/</guid>
       <description>The idea for this came to me while exploring and contributing to open source communities. It was (and still is) quite impressive how well these communities self govern using the Git version control system. Developers use the Git system to maintain a record of any changes to programming files and to me I couldn&amp;rsquo;t see why we couldn&amp;rsquo;t use the same system for documents.
 The Markdown language One downside to using Git for document management is the need to use plain text files and the Markdown language.</description>
+    </item>
+    
+    <item>
+      <title>Easy, Quick and Seamless Incident Response Process</title>
+      <link>/posts/easy-quick-and-seamless-incident-response-process/</link>
+      <pubDate>Mon, 10 Jan 2022 14:17:16 -0500</pubDate>
+      
+      <guid>/posts/easy-quick-and-seamless-incident-response-process/</guid>
+      <description>Incident response should be easy, quick and seamless. Anyone should have the ability to manage an incident with-in your organization with only a few minutes of training. I know sounds simple and well it is, the problem starts when we add decision makers to the equation. Everyone has ideas, experience and opinions about how incidents should be handled, but few have actually increased the productivity and efficiency of an incident response team.</description>
     </item>
     
     <item>
