@@ -1,7 +1,7 @@
 ---
 title: "Resume"
 date: 2022-03-01T10:54:37-05:00
-draft: false
+draft: true
 ---
 
 [CLICK HERE FOR PDF RESUME](http://resume.rackreaver.com)

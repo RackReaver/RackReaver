@@ -49,7 +49,3 @@ paginate     = 10
     identifier = "blog"
     name       = "Blog"
     url        = "posts"
- [[menu.main]]
-    identifier = "resume"
-    name       = "My Resume"
-    url        = "resume"
